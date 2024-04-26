@@ -5,7 +5,7 @@ msgid "Port"
 msgstr "端口"
 
 msgid "iPerf3 Server"
-msgstr "iPerf3 服务器"
+msgstr "内网测速"
 
 msgid "Enable iPerf3 Servers"
 msgstr "启用 iPerf3 服务器"
